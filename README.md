@@ -5,7 +5,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left"> <br>📚 I'm currently learning DSA with C, C++, and Java. <br>🎲 Fun fact: The term "bug" in tech originated when a moth caused a glitch in an early computer! 🦋👾</p>
+<p align="left"> <br>📚 I'm currently learning DSA with C++, and Java. <br>🎲 Fun fact: The term "bug" in tech originated when a moth caused a glitch in an early computer! 🦋👾</p>
 
 
 
